@@ -30,12 +30,12 @@
     </a> 
   </p>
 <br>
-<h3 align="center">Stats:</h3>
+<h3 align="center">📊 Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" />
+</p>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬🤝Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
