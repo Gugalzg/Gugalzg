@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #0077B5; font-weight: bold; font-size: 20px;"> 
+    LinkedIn
   </a>
 </p>
