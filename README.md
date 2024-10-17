@@ -12,3 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gugalzg&show_icons=true&locale=en" alt="gugalzg" /></p>
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/
