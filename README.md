@@ -17,8 +17,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" /></p>
- <br>
-<br>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/" target="_blank" rel="noreferrer"> 
