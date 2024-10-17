@@ -26,10 +26,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
-
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+    </a> 
+  </p>
+<br>
 <h3 align="center">Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" />
