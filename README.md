@@ -8,5 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" /></p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gugalzg&show_icons=true&locale=en" alt="gugalzg" /></p>
+
+<h3 align="left">Connect with me:</h3>
