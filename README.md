@@ -2,6 +2,10 @@
 
 <p align="center"></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" />
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -28,10 +32,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugalzg&show_icons=true&locale=en&layout=compact" alt="gugalzg" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
