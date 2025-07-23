@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Gustavo Comin Dalmas</h1>
 
 <p align="center">
-  Passionate about software development, databases, and modern web technologies.
+  Software development, databases, and modern web technologies.
 </p>
 
 ---
