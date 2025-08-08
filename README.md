@@ -50,7 +50,7 @@
 ---
 
 ### 🌎 Connect with me:
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/luiz-gustavo-comin-dalmas-842600320/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
